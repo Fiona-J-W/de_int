@@ -53,7 +53,7 @@ xkb_symbols "basic" {
     key <AB06> { [           n,          N, rightdoublequotemark, rightsinglequotemark ] };
     key <AB07> { [           m,          M,            mu,               mu ] };
     key <AB08> { [       comma,       less,      ccedilla,         Ccedilla ] };
-    key <AB09> { [      period,    greater,      abovedot,            caron ] };
+    key <AB09> { [      period,    greater,      abovedot,            U2026 ] };
     key <AB10> { [       slash,   question,  questiondown,             hook ] };
     key <BKSL> { [   backslash,        bar,       notsign,        brokenbar ] };
 
