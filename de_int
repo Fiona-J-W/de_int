@@ -1,0 +1,65 @@
+
+default  partial alphanumeric_keys modifier_keys
+
+xkb_symbols "basic" {
+
+    name[Group1]= "German for International keyboards";
+
+
+    key <TLDE> { [       grave, asciitilde,         grave,       asciitilde ] };
+    key <AE01> { [           1,     exclam,    exclamdown,      onesuperior ] };
+    key <AE02> { [           2,         at,   doubleacute,      twosuperior ] };
+    key <AE03> { [           3, numbersign,       section,    threesuperior ] };
+    key <AE04> { [           4,     dollar,      currency,         sterling ] };
+    key <AE05> { [           5,    percent,      EuroSign,          cedilla ] };
+    key <AE06> { [           6, asciicircum,   circumflex,        onequarter] };
+    key <AE07> { [           7,  ampersand,       onehalf,             horn ] };
+    key <AE08> { [           8,   asterisk, threequarters,           ogonek ] };
+    key <AE09> { [           9,  parenleft, leftsinglequotemark,      breve ] };
+    key <AE10> { [           0, parenright, rightsinglequotemark,      abovering ] };
+    key <AE11> { [       minus, underscore,           yen,         belowdot ] };
+    key <AE12> { [       equal,       plus,      multiply,         division ] };
+
+    key <AD01> { [           q,          Q,    adiaeresis,       Adiaeresis ] };
+    key <AD02> { [           w,          W,         aring,            Aring ] };
+    key <AD03> { [           e,          E,        eacute,           Eacute ] };
+    key <AD04> { [           r,          R,    registered,       registered ] };
+    key <AD05> { [           t,          T,         thorn,            THORN ] };
+    key <AD06> { [           y,          Y,    udiaeresis,       Udiaeresis ] };
+    key <AD07> { [           u,          U,    udiaeresis,       Udiaeresis ] };
+    key <AD08> { [           i,          I,       uparrow,            U02C4 ] };
+    key <AD09> { [           o,          O,    odiaeresis,       Odiaeresis ] };
+    key <AD10> { [           p,          P,    odiaeresis,       Odiaeresis ] };
+    key <AD11> { [ bracketleft,  braceleft,  guillemotleft,           U203A ] };
+    key <AD12> { [bracketright, braceright, guillemotright,           U2039 ] };
+
+    key <AC01> { [           a,          A,    adiaeresis,        Adiaeresis ] };
+    key <AC02> { [           s,          S,        ssharp,            U1E9E ] };
+    key <AC03> { [           d,          D,           eth,              ETH ] };
+    key <AC04> { [           f,          F,             f,                F ] };
+    key <AC05> { [           g,          G,             g,                G ] };
+    key <AC06> { [           h,          H,             h,                H ] };
+    key <AC07> { [           j,          J,     leftarrow,            U02C2 ] };
+    key <AC08> { [           k,          K,     downarrow,            U02C5 ] };
+    key <AC09> { [           l,          L,    rightarrow,            U02C3 ] };
+    key <AC10> { [   semicolon,      colon,     paragraph,           degree ] };
+    key <AC11> { [  apostrophe,   quotedbl,         acute,        diaeresis ] };
+
+    key <AB01> { [           z,          Z,            ae,               AE ] };
+    key <AB02> { [           x,          X,             x,                X ] };
+    key <AB03> { [           c,          C,     copyright,             cent ] };
+    key <AB04> { [           v,          V,   doublelowquotemark,   singlelowquotemark ] };
+    key <AB05> { [           b,          B,  leftdoublequotemark,  leftsinglequotemark ] };
+    key <AB06> { [           n,          N, rightdoublequotemark, rightsinglequotemark ] };
+    key <AB07> { [           m,          M,            mu,               mu ] };
+    key <AB08> { [       comma,       less,      ccedilla,         Ccedilla ] };
+    key <AB09> { [      period,    greater,      abovedot,            caron ] };
+    key <AB10> { [       slash,   question,  questiondown,             hook ] };
+    key <BKSL> { [   backslash,        bar,       notsign,        brokenbar ] };
+
+    key <LSGT> { [   backslash,        bar,     backslash,              bar ] };
+
+    include "level3(ralt_switch)"
+};
+
+
