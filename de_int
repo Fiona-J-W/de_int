@@ -6,7 +6,7 @@ xkb_symbols "basic" {
     name[Group1]= "German for International keyboards";
 
 
-    key <TLDE> { [       grave, asciitilde,         grave,       asciitilde ] };
+    key <TLDE> { [       grave, asciitilde,        degree,       asciitilde ] };
     key <AE01> { [           1,     exclam,    exclamdown,      onesuperior ] };
     key <AE02> { [           2,         at,   doubleacute,      twosuperior ] };
     key <AE03> { [           3, numbersign,       section,    threesuperior ] };
