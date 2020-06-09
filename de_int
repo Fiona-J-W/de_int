@@ -17,8 +17,8 @@ xkb_symbols "basic" {
     key <AE08> { [           8,   asterisk, threequarters,           ogonek ] };
     key <AE09> { [           9,  parenleft, leftsinglequotemark,      breve ] };
     key <AE10> { [           0, parenright, rightsinglequotemark,      abovering ] };
-    key <AE11> { [       minus, underscore,           yen,         belowdot ] };
-    key <AE12> { [       equal,       plus,      multiply,         division ] };
+    key <AE11> { [       minus, underscore,      division,         belowdot ] };
+    key <AE12> { [       equal,       plus,      multiply,         notequal ] };
 
     key <AD01> { [           q,          Q,    adiaeresis,       Adiaeresis ] };
     key <AD02> { [           w,          W,         aring,            Aring ] };
