@@ -51,7 +51,7 @@ xkb_symbols "basic" {
     key <AB04> { [           v,          V,   doublelowquotemark,   singlelowquotemark ] };
     key <AB05> { [           b,          B,  leftdoublequotemark,  leftsinglequotemark ] };
     key <AB06> { [           n,          N, rightdoublequotemark, rightsinglequotemark ] };
-    key <AB07> { [           m,          M,            mu,               mu ] };
+    key <AB07> { [           m,          M,            mu,            U2115 ] };
     key <AB08> { [       comma,       less,      ccedilla,         Ccedilla ] };
     key <AB09> { [      period,    greater,         U2219,            U2026 ] };
     key <AB10> { [       slash,   question,  questiondown,             hook ] };
