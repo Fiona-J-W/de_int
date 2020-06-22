@@ -1,3 +1,8 @@
+# Logic Characters:
+<Multi_key> <l> <a> : "∧"
+<Multi_key> <l> <o> : "∨"
+<Multi_key> <l> <i> : "∩"
+<Multi_key> <l> <u> : "∪"
 
 # Greek small letters ⟨g⟩:
 <Multi_key> <g> <a> : "α"
