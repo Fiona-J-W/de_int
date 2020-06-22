@@ -3,6 +3,8 @@
 <Multi_key> <l> <o> : "∨"
 <Multi_key> <l> <i> : "∩"
 <Multi_key> <l> <u> : "∪"
+<Multi_key> <less> <equal> : "≤"
+<Multi_key> <greater> <equal> : "≥"
 
 # Greek small letters ⟨g⟩:
 <Multi_key> <g> <a> : "α"
