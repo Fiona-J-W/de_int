@@ -5,6 +5,8 @@
 <Multi_key> <l> <u> : "∪"
 <Multi_key> <comma> <equal> : "≤"
 <Multi_key> <period> <equal> : "≥"
+<Multi_key> <less> <equal> : "≤"
+<Multi_key> <greater> <equal> : "≥"
 
 <Multi_key> <minus> <equal> : "≡"
 <Multi_key> <minus> <notequal> : "≢"
@@ -14,6 +16,11 @@
 <Multi_key> <asciitilde> <equal> : "≅"
 <Multi_key> <plus> <minus> : "±"
 <Multi_key> <minus> <plus> : "∓"
+<Multi_key> <q> <e> : "∎"
+<Multi_key> <less> <less> : "≪"
+<Multi_key> <greater> <greater> : "≫"
+<Multi_key> <question> <equal> : "≟"
+
 
 # Greek small letters ⟨g⟩:
 <Multi_key> <g> <a> : "α"
