@@ -6,6 +6,15 @@
 <Multi_key> <comma> <equal> : "≤"
 <Multi_key> <period> <equal> : "≥"
 
+<Multi_key> <minus> <equal> : "≡"
+<Multi_key> <minus> <notequal> : "≢"
+<Multi_key> <colon> <equal> : "≔"
+<Multi_key> <equal> <colon> : "≕"
+<Multi_key> <asciitilde> <asciitilde> : "≈"
+<Multi_key> <asciitilde> <equal> : "≅"
+<Multi_key> <plus> <minus> : "±"
+<Multi_key> <minus> <plus> : "∓"
+
 # Greek small letters ⟨g⟩:
 <Multi_key> <g> <a> : "α"
 <Multi_key> <g> <b> : "β"
