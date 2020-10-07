@@ -29,7 +29,7 @@ xkb_symbols "basic" {
     key <AD07> { [           u,          U,    udiaeresis,       Udiaeresis ] };
     key <AD08> { [           i,          I,       uparrow,            U21D1 ] };
     key <AD09> { [           o,          O,    odiaeresis,       Odiaeresis ] };
-    key <AD10> { [           p,          P,             p,            U2119 ] };
+    key <AD10> { [           p,          P,         U00A7,            U2119 ] };
     key <AD11> { [ bracketleft,  braceleft,         U27E8,    guillemotleft ] };
     key <AD12> { [bracketright, braceright,         U27E9,   guillemotright ] };
 
