@@ -21,6 +21,10 @@
 <Multi_key> <greater> <greater> : "≫"
 <Multi_key> <question> <equal> : "≟"
 
+<Multi_key> <s> <comma> : "⊂"
+<Multi_key> <s> <period>: "⊃"
+<Multi_key> <s> <less> : "⊆"
+<Multi_key> <s> <greater>: "⊇"
 
 # Greek small letters ⟨g⟩:
 <Multi_key> <g> <a> : "α"
