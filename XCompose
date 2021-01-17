@@ -26,12 +26,6 @@
 <Multi_key> <s> <less> : "⊆"
 <Multi_key> <s> <greater>: "⊇"
 
-<Multi_key> <uparrow> <plus>: "⁺"
-<Multi_key> <uparrow> <minus>: "⁻"
-<Multi_key> <uparrow> <parenleft>: "⁽"
-<Multi_key> <uparrow> <parenright>: "⁾"
-<Multi_key> <uparrow> <equal>: "⁼"
-
 # Superscript
 <Multi_key> <uparrow> <a> : "ᵃ"
 <Multi_key> <uparrow> <b> : "ᵇ"
@@ -87,6 +81,23 @@
 #<Multi_key> <uparrow> <Y> : ""
 #<Multi_key> <uparrow> <Z> : ""
 
+<Multi_key> <uparrow> <0>: "⁰"
+<Multi_key> <uparrow> <1>: "¹"
+<Multi_key> <uparrow> <2>: "²"
+<Multi_key> <uparrow> <3>: "³"
+<Multi_key> <uparrow> <4>: "⁴"
+<Multi_key> <uparrow> <5>: "⁵"
+<Multi_key> <uparrow> <6>: "⁶"
+<Multi_key> <uparrow> <7>: "⁷"
+<Multi_key> <uparrow> <8>: "⁸"
+<Multi_key> <uparrow> <9>: "⁹"
+
+<Multi_key> <uparrow> <plus>: "⁺"
+<Multi_key> <uparrow> <minus>: "⁻"
+<Multi_key> <uparrow> <parenleft>: "⁽"
+<Multi_key> <uparrow> <parenright>: "⁾"
+<Multi_key> <uparrow> <equal>: "⁼"
+
 # Subscript
 <Multi_key> <downarrow> <a> : "ₐ"
 #<Multi_key> <downarrow> <b> : ""
@@ -115,6 +126,16 @@
 #<Multi_key> <downarrow> <y> : ""
 #<Multi_key> <downarrow> <z> : ""
 
+<Multi_key> <downarrow> <0>: "₀"
+<Multi_key> <downarrow> <1>: "₁"
+<Multi_key> <downarrow> <2>: "₂"
+<Multi_key> <downarrow> <3>: "₃"
+<Multi_key> <downarrow> <4>: "₄"
+<Multi_key> <downarrow> <5>: "₅"
+<Multi_key> <downarrow> <6>: "₆"
+<Multi_key> <downarrow> <7>: "₇"
+<Multi_key> <downarrow> <8>: "₈"
+<Multi_key> <downarrow> <9>: "₉"
 
 # Greek small letters ⟨g⟩:
 <Multi_key> <g> <a> : "α"
