@@ -42,7 +42,7 @@ xkb_symbols "basic" {
     key <AC07> { [           j,          J,     leftarrow,            U21D0 ] };
     key <AC08> { [           k,          K,     downarrow,            U21D4 ] };
     key <AC09> { [           l,          L,    rightarrow,            U21D2 ] };
-    key <AC10> { [   semicolon,      colon,     paragraph,           degree ] };
+    key <AC10> { [   semicolon,      colon,     paragraph,            U22C4 ] };
     key <AC11> { [  apostrophe,   quotedbl,         acute,        diaeresis ] };
 
     key <AB01> { [           z,          Z,            ae,            U2124 ] };
