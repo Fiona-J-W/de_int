@@ -46,8 +46,8 @@ xkb_symbols "basic" {
     key <AC11> { [  apostrophe,   quotedbl,         acute,        diaeresis ] };
 
     key <AB01> { [           z,          Z,            ae,            U2124 ] };
-    key <AB02> { [           x,          X,             x,                X ] };
-    key <AB03> { [           c,          C,         U220A,            U2102 ] };
+    key <AB02> { [           x,          X,         U220D,            U220B ] };
+    key <AB03> { [           c,          C,         U220A,            U2208 ] };
     key <AB04> { [           v,          V,   doublelowquotemark,   singlelowquotemark ] };
     key <AB05> { [           b,          B,  leftdoublequotemark,  leftsinglequotemark ] };
     key <AB06> { [           n,          N, rightdoublequotemark, rightsinglequotemark ] };
