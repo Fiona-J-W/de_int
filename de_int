@@ -20,7 +20,7 @@ xkb_symbols "basic" {
     key <AE11> { [       minus, underscore,   division,         U2212 ] };
     key <AE12> { [       equal,       plus,   notequal,      multiply ] };
 
-    key <AD01> { [           q,          Q,    adiaeresis,       Adiaeresis ] };
+    key <AD01> { [           q,          Q,         U221A,       Adiaeresis ] };
     key <AD02> { [           w,          W,         aring,            Aring ] };
     key <AD03> { [           e,          E,      EuroSign,            U2203 ] };
     key <AD04> { [           r,          R,    registered,            U211D ] };

@@ -31,6 +31,13 @@
 
 <Multi_key> <slash> <U2208>: "∉"
 <Multi_key> <slash> <U220C>: "∌"
+<Multi_key> <slash> <U2203> "∄"
+
+<Multi_key> <plus> <plus> : "∑"
+<Multi_key> <U22C5> <U22C5> : "∏"
+
+<Multi_key> <threesuperior> <U221A> : "∛"
+<Multi_key> <U2074> <U221A> : "∜"
 
 # Superscript
 <Multi_key> <uparrow> <a> : "ᵃ"
