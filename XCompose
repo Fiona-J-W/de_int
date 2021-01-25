@@ -27,6 +27,7 @@
 <Multi_key> <s> <greater>: "⊇"
 
 <Multi_key> <0> <0>: "∞"
+<Multi_key> <slash> <0>: "∅"
 
 # Superscript
 <Multi_key> <uparrow> <a> : "ᵃ"
