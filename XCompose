@@ -39,6 +39,8 @@
 <Multi_key> <threesuperior> <U221A> : "∛"
 <Multi_key> <U2074> <U221A> : "∜"
 
+<Multi_key> <semicolon> <parenright> : "😉"
+
 # Superscript
 <Multi_key> <uparrow> <a> : "ᵃ"
 <Multi_key> <uparrow> <b> : "ᵇ"
