@@ -6,7 +6,5 @@ Sane German keyboard-layout for international keyboards with great support for m
 Installation
 ------------
 
-On Debian copy `de_int` to `/usr/share/X11/xkb/symbols` and execute `setxkbmap de_int`.
-You can set it permanently via `/etc/default/keyboard`.
-
-In addition copy `XCompose` to `~/.XCompose` and set a compose key via `setxkbmap -option compose:caps de_int`.
+Copy `de_int` to `/usr/share/X11/xkb/symbols` and `XCompose` to `~/.XCompose` and execute `setxkbmap de_int`.
+You can set it permanently by executing `localectl set-x11-keymap de_int`.
