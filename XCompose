@@ -41,6 +41,8 @@
 
 <Multi_key> <semicolon> <parenright> : "😉"
 
+<Multi_key> <underscore> <bar> : "⊥"
+
 # Superscript
 <Multi_key> <uparrow> <a> : "ᵃ"
 <Multi_key> <uparrow> <b> : "ᵇ"
