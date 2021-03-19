@@ -43,6 +43,16 @@
 
 <Multi_key> <underscore> <bar> : "⊥"
 
+<Multi_key> <O> <plus> : "⊕"
+<Multi_key> <O> <U2212> : "⊖"
+<Multi_key> <O> <multiply> : "⊗"
+<Multi_key> <O> <U2215> : "⊘"
+<Multi_key> <O> <U22c5> : "⊙"
+<Multi_key> <O> <U2218> : "⊚"
+<Multi_key> <O> <asterisk> : "⊛"
+<Multi_key> <O> <equal> : "⊜"
+<Multi_key> <O> <minus> : "⊝"
+
 # Superscript
 <Multi_key> <uparrow> <a> : "ᵃ"
 <Multi_key> <uparrow> <b> : "ᵇ"
