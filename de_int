@@ -21,7 +21,7 @@ xkb_symbols "basic" {
     key <AE12> { [       equal,       plus,   notequal,      multiply ] };
 
     key <CAPS> { [   Multi_key,  Multi_key,     Multi_key,        Caps_Lock ] };
-    key <AD01> { [           q,          Q,         U221A,       Adiaeresis ] };
+    key <AD01> { [           q,          Q,         U221A,            U211A ] };
     key <AD02> { [           w,          W,         aring,            Aring ] };
     key <AD03> { [           e,          E,      EuroSign,            U2203 ] };
     key <AD04> { [           r,          R,    registered,            U211D ] };
