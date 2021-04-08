@@ -32,6 +32,9 @@
 <Multi_key> <slash> <U2208>: "∉"
 <Multi_key> <slash> <U220C>: "∌"
 <Multi_key> <slash> <U2203> "∄"
+<Multi_key> <slash> <U21D0> "⇍"
+<Multi_key> <slash> <U21D4> "⇎"
+<Multi_key> <slash> <U21D2> "⇏"
 
 <Multi_key> <plus> <plus> : "∑"
 <Multi_key> <U22C5> <U22C5> : "∏"
@@ -39,7 +42,9 @@
 <Multi_key> <threesuperior> <U221A> : "∛"
 <Multi_key> <U2074> <U221A> : "∜"
 
-<Multi_key> <semicolon> <parenright> : "😉"
+<Multi_key> <semicolon> <parenright> : "😉︎"
+<Multi_key> <colon> <parenright> : "☺︎"
+<Multi_key> <colon> <parenleft> : "☹︎"
 
 <Multi_key> <underscore> <bar> : "⊥"
 
