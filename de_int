@@ -26,7 +26,7 @@ xkb_symbols "basic" {
     key <AD03> { [           e,          E,      EuroSign,            U2203 ] };
     key <AD04> { [           r,          R,    registered,            U211D ] };
     key <AD05> { [           t,          T,         thorn,            THORN ] };
-    key <AD06> { [           y,          Y,    udiaeresis,       Udiaeresis ] };
+    key <AD06> { [           y,          Y,         U25A1,            U25B3 ] };
     key <AD07> { [           u,          U,    udiaeresis,       Udiaeresis ] };
     key <AD08> { [           i,          I,       uparrow,            U21D1 ] };
     key <AD09> { [           o,          O,    odiaeresis,       Odiaeresis ] };

@@ -3,10 +3,51 @@
 <Multi_key> <l> <o> : "∨"
 <Multi_key> <l> <i> : "∩"
 <Multi_key> <l> <u> : "∪"
+<Multi_key> <L> <a> : "⋀"
+<Multi_key> <L> <o> : "⋁"
+<Multi_key> <L> <i> : "⋂"
+<Multi_key> <L> <u> : "⋃"
 <Multi_key> <comma> <equal> : "≤"
 <Multi_key> <period> <equal> : "≥"
 <Multi_key> <less> <equal> : "≤"
 <Multi_key> <greater> <equal> : "≥"
+
+<Multi_key> <space> <space> : "␣"
+
+<Multi_key> <U25b3> <exclam> : "⚠"
+<Multi_key> <U25b3> <b> : "☣"
+<Multi_key> <U25b3> <p> : "☠"
+<Multi_key> <U25b3> <r> : "☢"
+<Multi_key> <U25b3> <e> : "⚡︎"
+<Multi_key> <U25b3> <U25b3> : "⚠️"
+<Multi_key> <U25b3> <B> : "☣️"
+<Multi_key> <U25b3> <P> : "☠️"
+<Multi_key> <U25b3> <R> : "☢️"
+<Multi_key> <U25b3> <E> : "⚡"
+
+<Multi_key> <U25A1> <plus> <period>: "☑"
+<Multi_key> <U25A1> <plus> <b>: "✔"
+<Multi_key> <U25A1> <plus> <c>: "✅"
+<Multi_key> <U25A1> <minus> <period>: "☒"
+<Multi_key> <U25A1> <minus> <b>: "✘"
+<Multi_key> <U25A1> <minus> <c>: "❌"
+<Multi_key> <U25A1> <space> <period>: "☐"
+
+<Multi_key> <bracketleft> <bracketleft>: "⟦"
+<Multi_key> <bracketright> <bracketright>: "⟧"
+<Multi_key> <braceleft> <braceleft>: "⦃"
+<Multi_key> <braceright> <braceright>: "⦄"
+<Multi_key> <bar> <uparrow> <bracketleft> : "⌈"
+<Multi_key> <bar> <uparrow> <bracketright> : "⌉"
+<Multi_key> <bar> <uparrow> <uparrow> : "⌈⌉"
+<Multi_key> <bar> <downarrow> <bracketleft> : "⌊"
+<Multi_key> <bar> <downarrow> <bracketright> : "⌋"
+<Multi_key> <bar> <downarrow> <downarrow> : "⌊⌋"
+
+<Multi_key> <bar> <period> : "∣"
+<Multi_key> <slash> <bar> : "∤"
+<Multi_key> <bar> <bar> : "∥"
+<Multi_key> <slash> <bar> <bar> : "∦"
 
 <Multi_key> <minus> <equal> : "≡"
 <Multi_key> <minus> <notequal> : "≢"
@@ -14,12 +55,24 @@
 <Multi_key> <equal> <colon> : "≕"
 <Multi_key> <asciitilde> <asciitilde> : "≈"
 <Multi_key> <asciitilde> <equal> : "≅"
+
+<Multi_key> <equal> <d> <e> <f> : "≝"
+<Multi_key> <equal> <asciicircum> : "≙"
+<Multi_key> <question> <equal> : "≟"
+
+<Multi_key> <apostrophe> <1> : "′"
+<Multi_key> <apostrophe> <2> : "″"
+<Multi_key> <apostrophe> <3> : "‴"
+<Multi_key> <apostrophe> <4> : "⁗"
+
+
 <Multi_key> <plus> <minus> : "±"
 <Multi_key> <minus> <plus> : "∓"
-<Multi_key> <q> <e> : "∎"
+<Multi_key> <q> <e> <d>: "∎"
 <Multi_key> <less> <less> : "≪"
+<Multi_key> <less> <less> <less> : "⋘"
 <Multi_key> <greater> <greater> : "≫"
-<Multi_key> <question> <equal> : "≟"
+<Multi_key> <greater> <greater> <greater> : "⋙"
 
 <Multi_key> <s> <comma> : "⊂"
 <Multi_key> <s> <period>: "⊃"
@@ -38,13 +91,23 @@
 
 <Multi_key> <plus> <plus> : "∑"
 <Multi_key> <U22C5> <U22C5> : "∏"
+<Multi_key> <U22C5> <U22C5> <U22C5> : "∐"
 
 <Multi_key> <threesuperior> <U221A> : "∛"
 <Multi_key> <U2074> <U221A> : "∜"
 
 <Multi_key> <semicolon> <parenright> : "😉︎"
-<Multi_key> <colon> <parenright> : "☺︎"
-<Multi_key> <colon> <parenleft> : "☹︎"
+<Multi_key> <colon> <parenright> :     "😊︎"
+<Multi_key> <colon> <parenleft> :      "😞︎"
+<Multi_key> <colon> <D> :              "😄︎"
+
+<Multi_key> <8> <equal> <asciitilde>:  "𓂺"
+<Multi_key> <8> <equal> <D>:          "𓂸"
+
+<Multi_key> <degree> <C> : "℃"
+
+<Multi_key> <O> <C> : "🄯"
+
 
 <Multi_key> <underscore> <bar> : "⊥"
 
