@@ -6,7 +6,7 @@ xkb_symbols "basic" {
     name[Group1]= "German for International keyboards";
 
 
-    key <TLDE> { [       grave, asciitilde,   degree,       asciitilde ] };
+    key <TLDE> { [       grave, asciitilde,   degree,           acute ] };
     key <AE01> { [           1,     exclam,   U2081,      onesuperior ] };
     key <AE02> { [           2,         at,   U2082,      twosuperior ] };
     key <AE03> { [           3, numbersign,   U2083,    threesuperior ] };
@@ -44,7 +44,7 @@ xkb_symbols "basic" {
     key <AC08> { [           k,          K,     downarrow,            U21D4 ] };
     key <AC09> { [           l,          L,    rightarrow,            U21D2 ] };
     key <AC10> { [   semicolon,      colon,     paragraph,            U22C4 ] };
-    key <AC11> { [  apostrophe,   quotedbl,         acute,        diaeresis ] };
+    key <AC11> { [  apostrophe,   quotedbl, rightsinglequotemark, diaeresis ] };
 
     key <AB01> { [           z,          Z,            ae,            U2124 ] };
     key <AB02> { [           x,          X,         U220D,            U220B ] };
