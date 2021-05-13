@@ -34,6 +34,7 @@
 <Multi_key> <1> <U2215> <9> : "⅑"
 <Multi_key> <1> <U2215> <1> <0> : "⅒"
 <Multi_key> <1> <U2215> <period> : "⅟"
+<Multi_key> <U2215> <U2215>: "⁄"
 
 <Multi_key> <U25b3> <exclam> : "⚠"
 <Multi_key> <U25b3> <b> : "☣"
@@ -64,6 +65,38 @@
 <Multi_key> <bar> <downarrow> <bracketleft> : "⌊"
 <Multi_key> <bar> <downarrow> <bracketright> : "⌋"
 <Multi_key> <bar> <downarrow> <downarrow> : "⌊⌋"
+
+<Multi_key> <p> <bracketleft> <uparrow>:       "⎡"
+<Multi_key> <p> <bracketleft> <bar>:           "⎢"
+<Multi_key> <p> <bracketleft> <downarrow>:     "⎣"
+<Multi_key> <p> <bracketright> <uparrow>:         "⎤"
+<Multi_key> <p> <bracketright> <bar>:             "⎥"
+<Multi_key> <p> <bracketright> <downarrow>:       "⎦"
+<Multi_key> <p> <parenleft> <uparrow>:         "⎛"
+<Multi_key> <p> <parenleft> <bar>:             "⎜"
+<Multi_key> <p> <parenleft> <downarrow>:       "⎝"
+<Multi_key> <p> <parenright> <uparrow>:           "⎞"
+<Multi_key> <p> <parenright> <bar>:               "⎟"
+<Multi_key> <p> <parenright> <downarrow>:         "⎠"
+<Multi_key> <p> <braceleft> <uparrow>:         "⎧"
+<Multi_key> <p> <braceleft> <bar>:             "⎪"
+<Multi_key> <p> <braceleft> <U27E8>:           "⎨"
+<Multi_key> <p> <braceleft> <downarrow>:       "⎩"
+<Multi_key> <p> <braceright> <uparrow>:           "⎫"
+<Multi_key> <p> <braceright> <bar>:               "⎪"
+<Multi_key> <p> <braceright> <U27E9>:             "⎬"
+<Multi_key> <p> <braceright> <downarrow>:         "⎭"
+<Multi_key> <p> <i> <uparrow>:                 "⌠"
+<Multi_key> <p> <i> <bar>:                     "⎮"
+<Multi_key> <p> <i> <downarrow>:               "⌡"
+
+<Multi_key> <p> <i> <space>:              "∫"
+<Multi_key> <p> <i> <i> <space>:          "∬"
+<Multi_key> <p> <i> <i> <i> <space>:      "∭"
+<Multi_key> <p> <i> <i> <i> <i> <space>:  "⨌"
+<Multi_key> <p> <i> <o>:                  "∮"
+<Multi_key> <p> <i> <i> <o>:              "∯"
+<Multi_key> <p> <i> <i> <i> <o>:          "∰"
 
 <Multi_key> <bar> <period> : "∣"
 <Multi_key> <slash> <bar> : "∤"
@@ -105,7 +138,7 @@
 <Multi_key> <U25A1> <greater>: "⊒"
 <Multi_key> <U25B3> <comma> :  "⊲"
 <Multi_key> <U25B3> <period>:  "⊳"
-<Multi_key> <U5bB3> <less> :   "⊴"
+<Multi_key> <U25B3> <less> :   "⊴"
 <Multi_key> <U25B3> <greater>: "⊵"
 
 <Multi_key> <0> <0>: "∞"
@@ -149,6 +182,7 @@
 <Multi_key> <O> <asterisk> : "⊛"
 <Multi_key> <O> <equal> : "⊜"
 <Multi_key> <O> <minus> : "⊝"
+
 
 # Superscript
 <Multi_key> <uparrow> <a> : "ᵃ"
