@@ -36,7 +36,7 @@ xkb_symbols "basic" {
 
     key <AC01> { [           a,          A,    adiaeresis,        Adiaeresis ] };
     key <AC02> { [           s,          S,        ssharp,            U1E9E ] };
-    key <AC03> { [           d,          D,           eth,              ETH ] };
+    key <AC03> { [           d,          D,         U2202,            U2206 ] };
     key <AC04> { [           f,          F,         U2200,            U2200 ] };
     key <AC05> { [           g,          G,             g,                G ] };
     key <AC06> { [           h,          H,             h,                H ] };
