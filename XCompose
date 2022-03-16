@@ -118,14 +118,18 @@
 <Multi_key> <apostrophe> <2> : "″"
 <Multi_key> <apostrophe> <3> : "‴"
 <Multi_key> <apostrophe> <4> : "⁗"
+<Multi_key> <apostrophe> <space> : "′"
+<Multi_key> <apostrophe> <apostrophe> <space> : "″"
+<Multi_key> <apostrophe> <apostrophe> <apostrophe> <space>: "‴"
+<Multi_key> <apostrophe> <apostrophe> <apostrophe> <apostrophe>: "⁗"
 
 
 <Multi_key> <plus> <minus> : "±"
 <Multi_key> <minus> <plus> : "∓"
 <Multi_key> <q> <e> <d>: "∎"
-<Multi_key> <less> <less> : "≪"
+<Multi_key> <less> <less> <space>: "≪"
 <Multi_key> <less> <less> <less> : "⋘"
-<Multi_key> <greater> <greater> : "≫"
+<Multi_key> <greater> <greater> <space>: "≫"
 <Multi_key> <greater> <greater> <greater> : "⋙"
 
 <Multi_key> <s> <comma> : "⊂"
@@ -159,7 +163,7 @@
 <Multi_key> <U2074> <U221A> : "∜"
 
 <Multi_key> <semicolon> <parenright> : "😉︎"
-<Multi_key> <colon> <parenright> :     "😊︎"
+<Multi_key> <colon> <parenright> :     "☺︎"
 <Multi_key> <colon> <parenleft> :      "😞︎"
 <Multi_key> <colon> <D> :              "😄︎"
 
@@ -169,6 +173,9 @@
 <Multi_key> <degree> <C> : "℃"
 
 <Multi_key> <O> <C> : "🄯"
+<Multi_key> <t> <m> : "™"
+<Multi_key> <O> <c> : "©"
+<Multi_key> <O> <r> : "®"
 
 
 <Multi_key> <underscore> <bar> : "⊥"
