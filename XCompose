@@ -13,6 +13,7 @@
 <Multi_key> <greater> <equal> : "≥"
 
 <Multi_key> <space> <space> : "␣"
+<Multi_key> <space> <minus> : " "
 
 <Multi_key> <1> <U2215> <2> : "½"
 <Multi_key> <0> <U2215> <3> : "↉"
@@ -299,7 +300,7 @@
 <Multi_key> <downarrow> <t> : "ₜ"
 <Multi_key> <downarrow> <u> : "ᵤ"
 <Multi_key> <downarrow> <v> : "ᵥ"
-<#Multi_key> <downarrow> <w> : ""
+#<Multi_key> <downarrow> <w> : ""
 <Multi_key> <downarrow> <x> : "ₓ"
 #<Multi_key> <downarrow> <y> : ""
 #<Multi_key> <downarrow> <z> : ""
