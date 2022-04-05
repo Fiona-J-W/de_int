@@ -46,7 +46,7 @@ xkb_symbols "basic" {
     key <AC10> { [   semicolon,      colon,     paragraph,            U22C4 ] };
     key <AC11> { [  apostrophe,   quotedbl, rightsinglequotemark, diaeresis ] };
 
-    key <AB01> { [           z,          Z,            ae,            U2124 ] };
+    key <AB01> { [           z,          Z,         U017F,            U2124 ] };
     key <AB02> { [           x,          X,         U220D,            U220B ] };
     key <AB03> { [           c,          C,         U220A,            U2208 ] };
     key <AB04> { [           v,          V,   doublelowquotemark,   singlelowquotemark ] };
