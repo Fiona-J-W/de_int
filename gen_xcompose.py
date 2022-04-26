@@ -120,7 +120,7 @@ def lookup_char(kind: str, case: str, letter: str) -> Optional[str]:
 
 def gen_compositions(
         kind: str, compose_char: str, indicator: str, case: str, alphabet: List[Tuple[str, str]]) -> Generator[str, None, None]:
-    yield f"\n# {kind.lower()} {case.lower()} letter ⟨{compose_char}⟩:"
+    yield f"\n# {kind.lower()} {case.lower()} ⟨{compose_char}⟩:"
     for letter, key in alphabet:
         character: Optional[str] = None
         character = lookup_char(kind, case, letter)

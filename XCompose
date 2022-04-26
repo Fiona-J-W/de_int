@@ -12,8 +12,8 @@
 <Multi_key> <less> <equal> : "≤"
 <Multi_key> <greater> <equal> : "≥"
 
-<Multi_key> <space> <space> : "␣"
-<Multi_key> <space> <minus> : " "
+<Multi_key> <space> <space> : " "
+<Multi_key> <space> <underscore> : "␣"
 
 <Multi_key> <1> <U2215> <2> : "½"
 <Multi_key> <0> <U2215> <3> : "↉"
@@ -158,7 +158,7 @@
 
 <Multi_key> <plus> <plus> : "∑"
 <Multi_key> <U22C5> <U22C5> : "∏"
-<Multi_key> <U22C5> <U22C5> <U22C5> : "∐"
+<Multi_key> <multiply> <multiply>: "∐"
 
 <Multi_key> <threesuperior> <U221A> : "∛"
 <Multi_key> <U2074> <U221A> : "∜"
@@ -317,7 +317,7 @@
 <Multi_key> <downarrow> <9>: "₉"
 
 
-# bold capital letter ⟨b⟩:
+# bold capital ⟨b⟩:
 <Multi_key> <f> <b> <A> : "𝐀"
 <Multi_key> <f> <b> <B> : "𝐁"
 <Multi_key> <f> <b> <C> : "𝐂"
@@ -345,7 +345,7 @@
 <Multi_key> <f> <b> <Y> : "𝐘"
 <Multi_key> <f> <b> <Z> : "𝐙"
 
-# italic capital letter ⟨i⟩:
+# italic capital ⟨i⟩:
 <Multi_key> <f> <i> <A> : "𝐴"
 <Multi_key> <f> <i> <B> : "𝐵"
 <Multi_key> <f> <i> <C> : "𝐶"
@@ -373,7 +373,7 @@
 <Multi_key> <f> <i> <Y> : "𝑌"
 <Multi_key> <f> <i> <Z> : "𝑍"
 
-# bold italic capital letter ⟨I⟩:
+# bold italic capital ⟨I⟩:
 <Multi_key> <f> <I> <A> : "𝑨"
 <Multi_key> <f> <I> <B> : "𝑩"
 <Multi_key> <f> <I> <C> : "𝑪"
@@ -401,7 +401,7 @@
 <Multi_key> <f> <I> <Y> : "𝒀"
 <Multi_key> <f> <I> <Z> : "𝒁"
 
-# script capital letter ⟨s⟩:
+# script capital ⟨s⟩:
 <Multi_key> <f> <s> <A> : "𝒜"
 <Multi_key> <f> <s> <B> : "ℬ"
 <Multi_key> <f> <s> <C> : "𝒞"
@@ -429,7 +429,7 @@
 <Multi_key> <f> <s> <Y> : "𝒴"
 <Multi_key> <f> <s> <Z> : "𝒵"
 
-# bold script capital letter ⟨S⟩:
+# bold script capital ⟨S⟩:
 <Multi_key> <f> <S> <A> : "𝓐"
 <Multi_key> <f> <S> <B> : "𝓑"
 <Multi_key> <f> <S> <C> : "𝓒"
@@ -457,7 +457,7 @@
 <Multi_key> <f> <S> <Y> : "𝓨"
 <Multi_key> <f> <S> <Z> : "𝓩"
 
-# fraktur capital letter ⟨f⟩:
+# fraktur capital ⟨f⟩:
 <Multi_key> <f> <f> <A> : "𝔄"
 <Multi_key> <f> <f> <B> : "𝔅"
 <Multi_key> <f> <f> <C> : "ℭ"
@@ -485,7 +485,7 @@
 <Multi_key> <f> <f> <Y> : "𝔜"
 <Multi_key> <f> <f> <Z> : "ℨ"
 
-# double-struck capital letter ⟨B⟩:
+# double-struck capital ⟨B⟩:
 <Multi_key> <f> <B> <A> : "𝔸"
 <Multi_key> <f> <B> <B> : "𝔹"
 <Multi_key> <f> <B> <C> : "ℂ"
@@ -513,7 +513,7 @@
 <Multi_key> <f> <B> <Y> : "𝕐"
 <Multi_key> <f> <B> <Z> : "ℤ"
 
-# bold fraktur capital letter ⟨F⟩:
+# bold fraktur capital ⟨F⟩:
 <Multi_key> <f> <F> <A> : "𝕬"
 <Multi_key> <f> <F> <B> : "𝕭"
 <Multi_key> <f> <F> <C> : "𝕮"
@@ -541,7 +541,7 @@
 <Multi_key> <f> <F> <Y> : "𝖄"
 <Multi_key> <f> <F> <Z> : "𝖅"
 
-# monospace capital letter ⟨m⟩:
+# monospace capital ⟨m⟩:
 <Multi_key> <f> <m> <A> : "𝙰"
 <Multi_key> <f> <m> <B> : "𝙱"
 <Multi_key> <f> <m> <C> : "𝙲"
@@ -569,7 +569,7 @@
 <Multi_key> <f> <m> <Y> : "𝚈"
 <Multi_key> <f> <m> <Z> : "𝚉"
 
-# sans-serif capital letter ⟨a⟩:
+# sans-serif capital ⟨a⟩:
 <Multi_key> <f> <a> <A> : "𝖠"
 <Multi_key> <f> <a> <B> : "𝖡"
 <Multi_key> <f> <a> <C> : "𝖢"
@@ -597,7 +597,7 @@
 <Multi_key> <f> <a> <Y> : "𝖸"
 <Multi_key> <f> <a> <Z> : "𝖹"
 
-# sans-serif bold capital letter ⟨A⟩:
+# sans-serif bold capital ⟨A⟩:
 <Multi_key> <f> <A> <A> : "𝗔"
 <Multi_key> <f> <A> <B> : "𝗕"
 <Multi_key> <f> <A> <C> : "𝗖"
@@ -625,7 +625,7 @@
 <Multi_key> <f> <A> <Y> : "𝗬"
 <Multi_key> <f> <A> <Z> : "𝗭"
 
-# sans-serif italic capital letter ⟨n⟩:
+# sans-serif italic capital ⟨n⟩:
 <Multi_key> <f> <n> <A> : "𝘈"
 <Multi_key> <f> <n> <B> : "𝘉"
 <Multi_key> <f> <n> <C> : "𝘊"
@@ -653,7 +653,7 @@
 <Multi_key> <f> <n> <Y> : "𝘠"
 <Multi_key> <f> <n> <Z> : "𝘡"
 
-# sans-serif bold italic capital letter ⟨N⟩:
+# sans-serif bold italic capital ⟨N⟩:
 <Multi_key> <f> <N> <A> : "𝘼"
 <Multi_key> <f> <N> <B> : "𝘽"
 <Multi_key> <f> <N> <C> : "𝘾"
@@ -681,7 +681,7 @@
 <Multi_key> <f> <N> <Y> : "𝙔"
 <Multi_key> <f> <N> <Z> : "𝙕"
 
-# bold small letter ⟨b⟩:
+# bold small ⟨b⟩:
 <Multi_key> <f> <b> <a> : "𝐚"
 <Multi_key> <f> <b> <b> : "𝐛"
 <Multi_key> <f> <b> <c> : "𝐜"
@@ -709,7 +709,7 @@
 <Multi_key> <f> <b> <y> : "𝐲"
 <Multi_key> <f> <b> <z> : "𝐳"
 
-# italic small letter ⟨i⟩:
+# italic small ⟨i⟩:
 <Multi_key> <f> <i> <a> : "𝑎"
 <Multi_key> <f> <i> <b> : "𝑏"
 <Multi_key> <f> <i> <c> : "𝑐"
@@ -737,7 +737,7 @@
 <Multi_key> <f> <i> <y> : "𝑦"
 <Multi_key> <f> <i> <z> : "𝑧"
 
-# bold italic small letter ⟨I⟩:
+# bold italic small ⟨I⟩:
 <Multi_key> <f> <I> <a> : "𝒂"
 <Multi_key> <f> <I> <b> : "𝒃"
 <Multi_key> <f> <I> <c> : "𝒄"
@@ -765,7 +765,7 @@
 <Multi_key> <f> <I> <y> : "𝒚"
 <Multi_key> <f> <I> <z> : "𝒛"
 
-# script small letter ⟨s⟩:
+# script small ⟨s⟩:
 <Multi_key> <f> <s> <a> : "𝒶"
 <Multi_key> <f> <s> <b> : "𝒷"
 <Multi_key> <f> <s> <c> : "𝒸"
@@ -793,7 +793,7 @@
 <Multi_key> <f> <s> <y> : "𝓎"
 <Multi_key> <f> <s> <z> : "𝓏"
 
-# bold script small letter ⟨S⟩:
+# bold script small ⟨S⟩:
 <Multi_key> <f> <S> <a> : "𝓪"
 <Multi_key> <f> <S> <b> : "𝓫"
 <Multi_key> <f> <S> <c> : "𝓬"
@@ -821,7 +821,7 @@
 <Multi_key> <f> <S> <y> : "𝔂"
 <Multi_key> <f> <S> <z> : "𝔃"
 
-# fraktur small letter ⟨f⟩:
+# fraktur small ⟨f⟩:
 <Multi_key> <f> <f> <a> : "𝔞"
 <Multi_key> <f> <f> <b> : "𝔟"
 <Multi_key> <f> <f> <c> : "𝔠"
@@ -849,7 +849,7 @@
 <Multi_key> <f> <f> <y> : "𝔶"
 <Multi_key> <f> <f> <z> : "𝔷"
 
-# double-struck small letter ⟨B⟩:
+# double-struck small ⟨B⟩:
 <Multi_key> <f> <B> <a> : "𝕒"
 <Multi_key> <f> <B> <b> : "𝕓"
 <Multi_key> <f> <B> <c> : "𝕔"
@@ -877,7 +877,7 @@
 <Multi_key> <f> <B> <y> : "𝕪"
 <Multi_key> <f> <B> <z> : "𝕫"
 
-# bold fraktur small letter ⟨F⟩:
+# bold fraktur small ⟨F⟩:
 <Multi_key> <f> <F> <a> : "𝖆"
 <Multi_key> <f> <F> <b> : "𝖇"
 <Multi_key> <f> <F> <c> : "𝖈"
@@ -905,7 +905,7 @@
 <Multi_key> <f> <F> <y> : "𝖞"
 <Multi_key> <f> <F> <z> : "𝖟"
 
-# monospace small letter ⟨m⟩:
+# monospace small ⟨m⟩:
 <Multi_key> <f> <m> <a> : "𝚊"
 <Multi_key> <f> <m> <b> : "𝚋"
 <Multi_key> <f> <m> <c> : "𝚌"
@@ -933,7 +933,7 @@
 <Multi_key> <f> <m> <y> : "𝚢"
 <Multi_key> <f> <m> <z> : "𝚣"
 
-# sans-serif small letter ⟨a⟩:
+# sans-serif small ⟨a⟩:
 <Multi_key> <f> <a> <a> : "𝖺"
 <Multi_key> <f> <a> <b> : "𝖻"
 <Multi_key> <f> <a> <c> : "𝖼"
@@ -961,7 +961,7 @@
 <Multi_key> <f> <a> <y> : "𝗒"
 <Multi_key> <f> <a> <z> : "𝗓"
 
-# sans-serif bold small letter ⟨A⟩:
+# sans-serif bold small ⟨A⟩:
 <Multi_key> <f> <A> <a> : "𝗮"
 <Multi_key> <f> <A> <b> : "𝗯"
 <Multi_key> <f> <A> <c> : "𝗰"
@@ -989,7 +989,7 @@
 <Multi_key> <f> <A> <y> : "𝘆"
 <Multi_key> <f> <A> <z> : "𝘇"
 
-# sans-serif italic small letter ⟨n⟩:
+# sans-serif italic small ⟨n⟩:
 <Multi_key> <f> <n> <a> : "𝘢"
 <Multi_key> <f> <n> <b> : "𝘣"
 <Multi_key> <f> <n> <c> : "𝘤"
@@ -1017,7 +1017,7 @@
 <Multi_key> <f> <n> <y> : "𝘺"
 <Multi_key> <f> <n> <z> : "𝘻"
 
-# sans-serif bold italic small letter ⟨N⟩:
+# sans-serif bold italic small ⟨N⟩:
 <Multi_key> <f> <N> <a> : "𝙖"
 <Multi_key> <f> <N> <b> : "𝙗"
 <Multi_key> <f> <N> <c> : "𝙘"
@@ -1045,7 +1045,7 @@
 <Multi_key> <f> <N> <y> : "𝙮"
 <Multi_key> <f> <N> <z> : "𝙯"
 
-# greek small letter ⟨g⟩:
+# greek small ⟨g⟩:
 <Multi_key> <g> <a> : "α"
 <Multi_key> <g> <b> : "β"
 <Multi_key> <g> <g> : "γ"
@@ -1072,7 +1072,7 @@
 <Multi_key> <g> <O> : "ω"
 <Multi_key> <g> <S> : "ς"
 
-# bold small letter ⟨b⟩:
+# bold small ⟨b⟩:
 <Multi_key> <f> <g> <b> <a> : "𝛂"
 <Multi_key> <f> <g> <b> <b> : "𝛃"
 <Multi_key> <f> <g> <b> <g> : "𝛄"
@@ -1099,7 +1099,7 @@
 <Multi_key> <f> <g> <b> <O> : "𝛚"
 <Multi_key> <f> <g> <b> <S> : "𝛓"
 
-# italic small letter ⟨i⟩:
+# italic small ⟨i⟩:
 <Multi_key> <f> <g> <i> <a> : "𝛼"
 <Multi_key> <f> <g> <i> <b> : "𝛽"
 <Multi_key> <f> <g> <i> <g> : "𝛾"
@@ -1126,7 +1126,7 @@
 <Multi_key> <f> <g> <i> <O> : "𝜔"
 <Multi_key> <f> <g> <i> <S> : "𝜍"
 
-# bold italic small letter ⟨I⟩:
+# bold italic small ⟨I⟩:
 <Multi_key> <f> <g> <I> <a> : "𝜶"
 <Multi_key> <f> <g> <I> <b> : "𝜷"
 <Multi_key> <f> <g> <I> <g> : "𝜸"
@@ -1153,7 +1153,7 @@
 <Multi_key> <f> <g> <I> <O> : "𝝎"
 <Multi_key> <f> <g> <I> <S> : "𝝇"
 
-# sans-serif bold small letter ⟨A⟩:
+# sans-serif bold small ⟨A⟩:
 <Multi_key> <f> <g> <A> <a> : "𝝰"
 <Multi_key> <f> <g> <A> <b> : "𝝱"
 <Multi_key> <f> <g> <A> <g> : "𝝲"
@@ -1180,7 +1180,7 @@
 <Multi_key> <f> <g> <A> <O> : "𝞈"
 <Multi_key> <f> <g> <A> <S> : "𝞁"
 
-# sans-serif bold italic small letter ⟨N⟩:
+# sans-serif bold italic small ⟨N⟩:
 <Multi_key> <f> <g> <N> <a> : "𝞪"
 <Multi_key> <f> <g> <N> <b> : "𝞫"
 <Multi_key> <f> <g> <N> <g> : "𝞬"
@@ -1207,7 +1207,7 @@
 <Multi_key> <f> <g> <N> <O> : "𝟂"
 <Multi_key> <f> <g> <N> <S> : "𝞻"
 
-# greek capital letter ⟨g⟩:
+# greek capital ⟨g⟩:
 <Multi_key> <G> <a> : "Α"
 <Multi_key> <G> <b> : "Β"
 <Multi_key> <G> <g> : "Γ"
@@ -1233,7 +1233,7 @@
 <Multi_key> <G> <P> : "Ψ"
 <Multi_key> <G> <O> : "Ω"
 
-# bold capital letter ⟨b⟩:
+# bold capital ⟨b⟩:
 <Multi_key> <f> <G> <b> <a> : "𝚨"
 <Multi_key> <f> <G> <b> <b> : "𝚩"
 <Multi_key> <f> <G> <b> <g> : "𝚪"
@@ -1259,7 +1259,7 @@
 <Multi_key> <f> <G> <b> <P> : "𝚿"
 <Multi_key> <f> <G> <b> <O> : "𝛀"
 
-# italic capital letter ⟨i⟩:
+# italic capital ⟨i⟩:
 <Multi_key> <f> <G> <i> <a> : "𝛢"
 <Multi_key> <f> <G> <i> <b> : "𝛣"
 <Multi_key> <f> <G> <i> <g> : "𝛤"
@@ -1285,7 +1285,7 @@
 <Multi_key> <f> <G> <i> <P> : "𝛹"
 <Multi_key> <f> <G> <i> <O> : "𝛺"
 
-# bold italic capital letter ⟨I⟩:
+# bold italic capital ⟨I⟩:
 <Multi_key> <f> <G> <I> <a> : "𝜜"
 <Multi_key> <f> <G> <I> <b> : "𝜝"
 <Multi_key> <f> <G> <I> <g> : "𝜞"
@@ -1311,7 +1311,7 @@
 <Multi_key> <f> <G> <I> <P> : "𝜳"
 <Multi_key> <f> <G> <I> <O> : "𝜴"
 
-# sans-serif bold capital letter ⟨A⟩:
+# sans-serif bold capital ⟨A⟩:
 <Multi_key> <f> <G> <A> <a> : "𝝖"
 <Multi_key> <f> <G> <A> <b> : "𝝗"
 <Multi_key> <f> <G> <A> <g> : "𝝘"
@@ -1337,7 +1337,7 @@
 <Multi_key> <f> <G> <A> <P> : "𝝭"
 <Multi_key> <f> <G> <A> <O> : "𝝮"
 
-# sans-serif bold italic capital letter ⟨N⟩:
+# sans-serif bold italic capital ⟨N⟩:
 <Multi_key> <f> <G> <N> <a> : "𝞐"
 <Multi_key> <f> <G> <N> <b> : "𝞑"
 <Multi_key> <f> <G> <N> <g> : "𝞒"
@@ -1363,7 +1363,7 @@
 <Multi_key> <f> <G> <N> <P> : "𝞧"
 <Multi_key> <f> <G> <N> <O> : "𝞨"
 
-# bold digit letter ⟨b⟩:
+# bold digit ⟨b⟩:
 <Multi_key> <f> <b> <0> : "𝟎"
 <Multi_key> <f> <b> <1> : "𝟏"
 <Multi_key> <f> <b> <2> : "𝟐"
@@ -1375,7 +1375,7 @@
 <Multi_key> <f> <b> <8> : "𝟖"
 <Multi_key> <f> <b> <9> : "𝟗"
 
-# double-struck digit letter ⟨B⟩:
+# double-struck digit ⟨B⟩:
 <Multi_key> <f> <B> <0> : "𝟘"
 <Multi_key> <f> <B> <1> : "𝟙"
 <Multi_key> <f> <B> <2> : "𝟚"
@@ -1387,7 +1387,7 @@
 <Multi_key> <f> <B> <8> : "𝟠"
 <Multi_key> <f> <B> <9> : "𝟡"
 
-# monospace digit letter ⟨m⟩:
+# monospace digit ⟨m⟩:
 <Multi_key> <f> <m> <0> : "𝟶"
 <Multi_key> <f> <m> <1> : "𝟷"
 <Multi_key> <f> <m> <2> : "𝟸"
@@ -1399,7 +1399,7 @@
 <Multi_key> <f> <m> <8> : "𝟾"
 <Multi_key> <f> <m> <9> : "𝟿"
 
-# sans-serif digit letter ⟨a⟩:
+# sans-serif digit ⟨a⟩:
 <Multi_key> <f> <a> <0> : "𝟢"
 <Multi_key> <f> <a> <1> : "𝟣"
 <Multi_key> <f> <a> <2> : "𝟤"
@@ -1411,7 +1411,7 @@
 <Multi_key> <f> <a> <8> : "𝟪"
 <Multi_key> <f> <a> <9> : "𝟫"
 
-# sans-serif bold digit letter ⟨A⟩:
+# sans-serif bold digit ⟨A⟩:
 <Multi_key> <f> <A> <0> : "𝟬"
 <Multi_key> <f> <A> <1> : "𝟭"
 <Multi_key> <f> <A> <2> : "𝟮"
