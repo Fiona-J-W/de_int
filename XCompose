@@ -151,10 +151,10 @@
 
 <Multi_key> <slash> <U2208>: "∉"
 <Multi_key> <slash> <U220C>: "∌"
-<Multi_key> <slash> <U2203> "∄"
-<Multi_key> <slash> <U21D0> "⇍"
-<Multi_key> <slash> <U21D4> "⇎"
-<Multi_key> <slash> <U21D2> "⇏"
+<Multi_key> <slash> <U2203>: "∄"
+<Multi_key> <slash> <U21D0>: "⇍"
+<Multi_key> <slash> <U21D4>: "⇎"
+<Multi_key> <slash> <U21D2>: "⇏"
 
 <Multi_key> <plus> <plus> : "∑"
 <Multi_key> <U22C5> <U22C5> : "∏"
@@ -167,6 +167,8 @@
 <Multi_key> <colon> <parenright> :     "😊︎"
 <Multi_key> <colon> <parenleft> :      "😞︎"
 <Multi_key> <colon> <D> :              "😄︎"
+<Multi_key> <m> <plus> :               "👍"
+<Multi_key> <m> <minus> :              "👎"
 
 <Multi_key> <8> <equal> <asciitilde>:  "𓂺"
 <Multi_key> <8> <equal> <D>:          "𓂸"
@@ -198,6 +200,10 @@
 <Multi_key> <N> <N> : "ℕ"
 <Multi_key> <B> <B> : "𝔹"
 <Multi_key> <F> <F> : "𝔽"
+
+<Multi_key> <t> <g> : "⚧"
+<Multi_key> <T> <G> : "🏳️‍⚧️"
+<Multi_key> <E> <U> : "🇪🇺"
 
 # Superscript
 <Multi_key> <uparrow> <a> : "ᵃ"
