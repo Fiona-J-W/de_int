@@ -172,6 +172,11 @@
 <Multi_key> <w> <colon> <parenright> : "😈"
 <Multi_key> <m> <plus> :               "👍"
 <Multi_key> <m> <minus> :              "👎"
+<Multi_key> <m> <parenleft> :          "🤦‍♀️"
+<Multi_key> <backslash> <o> <slash> :  "🤷‍♀️"
+<Multi_key> <l> <e> <s> :              "👭"
+<Multi_key> <L> <E> <S> :              "👩‍❤️‍💋‍👩"
+<Multi_key> <backslash> <o> <slash> :  "🤷‍♀️"
 
 <Multi_key> <8> <equal> <asciitilde>:  "𓂺"
 <Multi_key> <8> <equal> <D>:          "𓂸"
@@ -206,7 +211,14 @@
 
 <Multi_key> <t> <g> : "⚧"
 <Multi_key> <T> <G> : "🏳️‍⚧️"
+<Multi_key> <U> <C> : "🦄"
 <Multi_key> <E> <U> : "🇪🇺"
+<Multi_key> <D> <E> : "🇩🇪"
+<Multi_key> <N> <L> : "🇳🇱"
+<Multi_key> <P> <S> : "🇵🇸"
+<Multi_key> <T> <W> : "🇹🇼"
+<Multi_key> <7> <s> : "🏴‍☠️"
+<Multi_key> <g> <a> <y> : "🏳️‍🌈"
 
 # Superscript
 <Multi_key> <uparrow> <a> : "ᵃ"
